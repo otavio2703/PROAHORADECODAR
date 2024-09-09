@@ -122,9 +122,6 @@ To get a local copy up and running follow these simple example steps.
       O programa deve calcular e escrever o resultado dessa operação sobre os dois valores lidos. </br>
       <strong>Observação</strong>: Considere que só serão lidos os valores 1, 2, 3 ou 4 para as operações
     </li>
-    <li>
-      a
-    </li>
   </ol>
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
