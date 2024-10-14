@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="images/proa-logo.png" alt="Logo" width="80" height="80">
+  <img src="images/proa-logo.png" alt="Logo" width="120" height="120">
   
   <h2 align="center">Atividades PROA</h2>
 
