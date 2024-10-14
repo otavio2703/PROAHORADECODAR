@@ -8,9 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/malcolnlmr/demoday"> <!-- ALTERE ISSO PARA O SEU REPO -->
-    <img src="images/proa-logo.png" alt="Logo" width="80" height="80">
-  </a>
+  <img src="images/proa-logo.png" alt="Logo" width="80" height="80">
   
   <h2 align="center">Atividades PROA</h2>
 
