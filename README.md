@@ -29,34 +29,34 @@
     </li>
     <!-- Segundo: Descrição (com sublista) -->
     <li>
-      <a href="#desc">Descrição</a>
+      <a href="#descrição-do-projeto">Descrição</a>
       <ul>
-        <li><a href="#func">Funcionalidades</a></li>
+        <li><a href="#funcionalidades">Funcionalidades</a></li>
       </ul>
     </li>
     <!-- Terceiro: Tecnologias Usadas -->
     <li>
-      <a href="#tech">Tecnologias Usadas</a>
+      <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>
     </li>
     <!-- Quarto: Como executar o projeto -->
     <li>
-      <a href="#exec">Como Executar o Projeto</a>
+      <a href="#como-executar-o-projeto">Como Executar o Projeto</a>
     </li>
     <!-- Quinto: Capturas de tela -->
     <li>
-      <a href="#prints">Capturas de tela</a>
+      <a href="#capturas-de-tela">Capturas de tela</a>
     </li>
     <!-- Sexto: Desafios -->
     <li>
-      <a href="#extras">Desafios Implementados</a>
+      <a href="#desafios-implementados">Desafios Implementados</a>
     </li>
     <!-- Sétimo: Futuras Melhorias -->
     <li>
-      <a href="#plans">Futuras Melhorias</a>
+      <a href="#futuras-melhorias">Futuras Melhorias</a>
     </li>
     <!-- Oitavo: Licença -->
     <li>
-      <a href="#license">Licença</a>
+      <a href="#licença">Licença</a>
     </li>
   </ol>
 </details>
@@ -78,11 +78,9 @@ O Instituto PROA nasceu em 2007 com o objetivo de capacitar e inserir jovens de 
 
 <!-- Funcionalidades -->
 #### Funcionalidades
-<a id="#func"></a>
-  <ol>
-    <li>      
-    </li>
-  </ol>  
+
+- **exemplo** blablalba
+
 <!-- END: Funcionalidades -->
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
@@ -90,7 +88,6 @@ O Instituto PROA nasceu em 2007 com o objetivo de capacitar e inserir jovens de 
 
 <!-- Tecnologias -->
 ## Tecnologias Utilizadas
-<a id="#tech"></a>
 
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
@@ -98,7 +95,6 @@ O Instituto PROA nasceu em 2007 com o objetivo de capacitar e inserir jovens de 
 
 <!-- Como Executar o Projeto -->
 ## Como Executar o Projeto
-<a id="#exec"></a>
 
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
@@ -106,7 +102,6 @@ O Instituto PROA nasceu em 2007 com o objetivo de capacitar e inserir jovens de 
 
 <!-- Capturas de tela -->
 ## Capturas de tela
-<a id="#prints"></a>
 
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
@@ -114,7 +109,6 @@ O Instituto PROA nasceu em 2007 com o objetivo de capacitar e inserir jovens de 
 
 <!-- Desafios Implementados -->
 ## Desafios Implementados
-<a id="#extras"></a>
 
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
@@ -122,7 +116,6 @@ O Instituto PROA nasceu em 2007 com o objetivo de capacitar e inserir jovens de 
 
 <!-- Futuras Melhorias -->
 ## Futuras Melhorias
-<a id="#plans"></a>
 
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
@@ -130,7 +123,6 @@ O Instituto PROA nasceu em 2007 com o objetivo de capacitar e inserir jovens de 
 
 <!-- LICENSE -->
 ## Licença
-<a id="#license"></a>
 
 Distrubuído através da licença MIT.
 
